@@ -1,6 +1,6 @@
 # Algorithm Design & Analysis — Example Class Projects
 
-This repository contains the three example class projects completed for **SC2001 Algorithm Design & Analysis** by **Group 8** (Florian, Min Jie, Yi Rou, Yi Ken). Each project explores a key algorithmic paradigm — divide-and-conquer, greedy algorithms, and dynamic programming — through implementation, empirical analysis, and comparison of performance.
+This repository contains the three example class projects completed for **SC2001 Algorithm Design & Analysis** by **Group 8**. Each project explores a key algorithmic paradigm — divide-and-conquer, greedy algorithms, and dynamic programming — through implementation, empirical analysis, and comparison of performance.
 
 ---
 
